@@ -3,6 +3,8 @@ import React from 'react'
 // => Componets
 import Header from './components/Header'
 
+import './app.css'
+
 const App = () => {
   return (
     <>
