@@ -6,8 +6,9 @@ import Header from './components/Header'
 const App = () => {
   return (
     <>
-      <Header />
-      <h1>Hello GoStack</h1>
+      <Header title="ReactJS">
+        <span>MENU</span>
+      </Header>
     </>
   )
 }
